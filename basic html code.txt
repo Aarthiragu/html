@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   
+    <title> Resume </title>
+  </head>
+
+  <body>
+ 
+    <center>
+      <p><H1>C R AARTHI</H1></p>
+      <h2>Coimbatore</h2>
+      <h2>9790210365</h2>
+      <h2>aarthihariniraja@gmail.com</h2>
+      <a href="https://www.linkedin.com/in/aarthi-c-r-90b761255">linkedin</a></h3>
+   </center>
+      <b>Objective</b>
+      <hr>
+      <p>As a self-motivated, hardworking graduate student in Artificial intelligence and data science, I seek an position at
+Company that will allow me to expand my professional knowledge, abilities, and skills in a company and to
+experience the working environment .My strong problem-solving and analytical skills could be well utilized for the
+development of company.My team collaborative skill will enhance team work.</p>
+
+<b>Education</b>
+<hr>
+<p><b>HINDUSTHAN INSTITUTE OF TECHNOLOGY</b><br>
+BACHELOR OF TECHNOLOGY<br>
+9.58cgpa<br></br>
+
+<b>AKT MEMORIAL VIDYA SAAKET SCHOOL</b><br>
+HSC<br>
+92.6 %<br></br>
+<b>AKT MEMORIAL VIDYA SAAKET SCHOOL</b><br>
+SSLC<br>
+85.4%<br></br>
+</p>
+<B>Skills</B>
+<HR>
+  <p><li>Technical skill -> Python -> Java ->MySQL</li>
+<li>Web development -> HTML -> CSS -> Javascript</li>
+<li>Hypertext preprocessor (PHP)</li>
+<li>Data structures and algorithm</li>
+<li>Problem solving</li>
+<li>Strong communication skill</li>
+<li>Self motivated and quick learner</li></p>
+<b>Project</b>
+<hr>
+<b><li>Title:Recommending pesticides by using drone (AI&ML)</li></b>
+<p><ul>My project is about recommending pesticides to the farmers ,now a days various crop disease where arised so
+by using the drone technology the diseased crop images are collected and based on it model recommend the
+pesiticide through notification by means of voice note,sms.</ul></p>
+<b><li>Title:Crafting conversation of medibot using ML</li></b>
+<p><ul>It develop conversation with user and collect the data about their health issue and then prescribe the measures
+to be taken. It provide multilingual support so that it benefits many people and suggest related consultant (ex
+general doctor ,neurologist) to visit based on the severe nature of health issues.It deals only about medical
+issues so called medibot.</ul></p>
+<b>Achievements & Awards</b>
+<hr>
+<p><ul><li>Academics</li>
+<li>In Quest pulse challenge (ideathon) held at kumaraguru college of engineering as a team we won second place
+with cash prize.</li>
+<li>In State level project expo held in Hindusthan institute of technology as a team we won first place with cash
+prize</li>
+<li>Speech(Tamil, English)</li></ul></p>
+<b>Publications</b>
+<hr>
+<b><li>Title:Utilizing Convulational neural networks for accurate and efficient Classification Of paddy leaf disease</li> </b>
+<p><ul>It's about predicting the disease through which the paddy crops gets affected.</ul></p>
+<b><li>Title:Interactive medical assistance with generative pre- trained transformer using gen AI</li></b>    
+<p><ul>It is medical GPT which provide user Interface for communication and knowing about their health issues. It can
+also be used by doctor to check medicine details.</ul></p>    
+<b>Interests</b>
+<hr>
+<ul><li>Data analyst</li>
+<li>Software development</li>
+<li>Artificial intelligence engineer</li>
+<li>Machine learning engineer</li>
+<li>Mobile application development</li></ul>
+<b>Additional Information</b>
+<hr>
+<ul><li>Currently upgrading my java skill through infosys platform.</li>
+<li>I had participated in smart india hackathon, CTS hackathon, inter college and intra college hackathon,ideathon
+challenges and continuing my active participation in upcoming events.</li>
+<li>Enhancing my knowledge in data analytics.</li></ul>
+<b>Workshop</b>
+<hr>
+<b>Title:Unlocking the power of Machine learning</b>
+<p>It deal about machine learning algorithm such as classification and
+regression</p>
+<b>Internships</b>
+<hr>
+<ul><li>In Hoffensoft undergone a Amazon web services internship</li>
+<li>In DLK Technologies I have undergone a block chain technology internship</li></ul>
+<b>Certification</b>
+<hr>
+<ul><li>Front end development in great learning</li>
+<li>Data retrieval in infosys springboard</li>
+<li>Introduction to Artificial Intelligence in great learning</li>
+<li>Programming in java in infosys springboard</li>
+<li>Introduction to python in infosys springboard</li></ul>
+<b>Declaration</b>
+<hr>
+<p>The above furnished information is true to the best of my knowledge and belief and can be supported by relevant documents.</p>
+
+<</p>
+     
+     
+   
+
+     
+  </body>
+ 
+</html>
